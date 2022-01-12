@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF7EF&size=57&center=true&multiline=true&width=2000&height=162&lines=Choose+discomfort+for+growth!)](https://git.io/typing-svg)
 
 
-<h1> Hellooo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
+<h1> Hellooo!  </h1>
 
 
 <img align="right" src="https://media.giphy.com/media/VeGdOthTGx5z6wEdrt/giphy.gif" width='230'/>
