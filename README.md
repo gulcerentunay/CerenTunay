@@ -22,7 +22,6 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 - [Google Developer Groups Edirne](https://www.instagram.com/gdgedirne/?hl=tr) Organizer 💻
 - Chemical Engineer & Deeply interested in Project management 📈
 
-
 <!-- Social icons section -->
 
 ## Get in touch 📭
@@ -44,6 +43,8 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 
 
 
+
+
 ## 📊 My Github Stats
 
 <p align="center">
@@ -51,3 +52,5 @@ My dream is to build a future where the lack of diversity is no longer an issue 
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulcerentunay&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="gulcerentunay"/>
   </a>
 </p>
+
+
