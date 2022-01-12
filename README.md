@@ -3,10 +3,18 @@
 
 <h1> Hellooo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<img align="right" src="https://i.pinimg.com/originals/71/33/c7/7133c746eca7e3a7b84aee1027b4b935.gif" width='450'/>
+
+<img align="right" src="https://media.giphy.com/media/VeGdOthTGx5z6wEdrt/giphy.gif" width='230'/>
+
+<img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
+
+
 
 Community builder & developer who has always been trying to be a restless learner. Strongly passionate about the development realized by communities through innovation.
 My dream is to build a future where the lack of diversity is no longer an issue in the tech community.
+
+
+
 
 
 - Community Coordinator at [Qubitro](https://qubitro.com/) 🚀
@@ -35,6 +43,8 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 
 **If you have any questions, reach out!**
 **Book a slot on [My Calendly](https://bit.ly/meetwithCeren)**
+
+
 
 
 ## 📌 Tools I Use
