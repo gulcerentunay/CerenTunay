@@ -16,9 +16,7 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 
 
 
-
-- Community Coordinator at [Qubitro](https://qubitro.com/) 🚀
-- Co-Founder & Mentor at [Android Student Club](https://www.youtube.com/c/AndroidStudentClub) 🤩
+- Co-Founder & Mentor at [Android Developer Group](https://www.youtube.com/c/AndroidStudentClub) 🤩
 - Co-Host at [CMX Connect İstanbul](https://events.cmxhub.com/istanbul/) 🙋🏽‍♀️
 - [Women Techmaker Turkey](https://www.instagram.com/womentechmakerspower/) Core Mentor 👩🏽‍💻
 - [Google Developer Groups Edirne](https://www.instagram.com/gdgedirne/?hl=tr) Organizer 💻
@@ -43,20 +41,6 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 
 **If you have any questions, reach out!**
 **Book a slot on [My Calendly](https://bit.ly/meetwithCeren)**
-
-
-
-
-## 📌 Tools I Use
-
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" alt="android" width="40" height="40"/> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-
-
-
-## 🖇 Tools I Learn
-
-<a href="https://developer.android.com/jetpack/compose" target="_blank"> <img src="https://i2.wp.com/blog.stylingandroid.com/wp-content/uploads/2021/05/jetpack-compose-icon_RGB.png?ssl=1" alt="compose" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
 
 
 
