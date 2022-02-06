@@ -3,7 +3,6 @@
 
 <h1> Hellooo!  </h1>
 
-
 <img align="right" src="https://media.giphy.com/media/VeGdOthTGx5z6wEdrt/giphy.gif" width='230'/>
 
 <img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
@@ -11,9 +10,6 @@
 
 
 Community builder & developer who has always been trying to be a restless learner. Strongly passionate about the development realized by communities through innovation.
-My dream is to build a future where the lack of diversity is no longer an issue in the tech community.
-
-
 
 
 - Co-Founder & Mentor at [Android Developer Group](https://www.youtube.com/c/AndroidStudentClub) 🤩
@@ -21,8 +17,6 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 - [Women Techmaker Turkey](https://www.instagram.com/womentechmakerspower/) Core Mentor 👩🏽‍💻
 - [Google Developer Groups Edirne](https://www.instagram.com/gdgedirne/?hl=tr) Organizer 💻
 - Chemical Engineer & keen on project management 📈
-
-<!-- Social icons section -->
 
 ### [📭 Get in touch👈🏼](https://manylink.co/@cerentunay)
 
@@ -34,5 +28,3 @@ My dream is to build a future where the lack of diversity is no longer an issue 
   <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulcerentunay&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="gulcerentunay"/>
   </a>
 </p>
-
-
