@@ -20,32 +20,14 @@ My dream is to build a future where the lack of diversity is no longer an issue 
 - Co-Host at [CMX Connect İstanbul](https://events.cmxhub.com/istanbul/) 🙋🏽‍♀️
 - [Women Techmaker Turkey](https://www.instagram.com/womentechmakerspower/) Core Mentor 👩🏽‍💻
 - [Google Developer Groups Edirne](https://www.instagram.com/gdgedirne/?hl=tr) Organizer 💻
-- Chemical Engineer & Deeply interested in Project management 📈
+- Chemical Engineer & keen on project management 📈
 
 <!-- Social icons section -->
 
-## Get in touch 📭
-
- <p align="left">
- <a href="https://www.linkedin.com/in/gulcerentunay/">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-  <a href="https://dev.to/cerentunay">
-  <img align="center" alt="Pramod's Dev" width="95px" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" /> &nbsp; &nbsp;
- </a>
-  <a href="https://twitter.com/gulcerentunay">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" /> &nbsp; &nbsp;
- </a>
-</p>
-
-**If you have any questions, reach out!**
-**Book a slot on [My Calendly](https://bit.ly/meetwithCeren)**
+### [📭 Get in touch👈🏼](https://manylink.co/@cerentunay)
 
 
-
-
-
-## 📊 My Github Stats
+### 📊 My Github Stats
 
 <p align="center">
 <a href="https://github.com/gulcerentunay">
