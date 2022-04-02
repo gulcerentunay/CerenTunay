@@ -11,7 +11,7 @@
 
 Community builder & developer who has always been trying to be a restless learner. Strongly passionate about the development realized by communities through innovation.
 
-
+- iOS Development Program Teaching Assistant at [Up School](https://www.upschool.io/)
 - Co-Founder & Mentor at [Android Developer Group](https://www.youtube.com/c/AndroidStudentClub) 🤩
 - Co-Host at [CMX Connect İstanbul](https://events.cmxhub.com/istanbul/) 🙋🏽‍♀️
 - [Women Techmaker Turkey](https://www.instagram.com/womentechmakerspower/) Core Mentor 👩🏽‍💻
