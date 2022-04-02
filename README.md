@@ -3,11 +3,10 @@
 
 <h1> Hellooo!  </h1>
 
-<img align="right" src="https://media.giphy.com/media/VeGdOthTGx5z6wEdrt/giphy.gif" width='230'/>
+
+<img align="right" src="https://media.giphy.com/media/tYiGDt4b33UVq/giphy.gif" width='110'/>
 
 <img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
-
-<img align="right" src="https://media.giphy.com/media/tYiGDt4b33UVq/giphy.gif" width='300'/>
 
 
 Community builder & developer who has always been trying to be a restless learner. Strongly passionate about the development realized by communities through innovation.
@@ -20,6 +19,8 @@ Community builder & developer who has always been trying to be a restless learne
 - Chemical Engineer & keen on project management 📈
 
 ### [📭 Get in touch👈🏼](https://manylink.co/@cerentunay)
+
+<img align="right" src="https://media.giphy.com/media/VeGdOthTGx5z6wEdrt/giphy.gif" width='230'/>
 
 
 ### 📊 My Github Stats
