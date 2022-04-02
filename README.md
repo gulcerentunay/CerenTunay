@@ -7,7 +7,7 @@
 
 <img align="right" src="https://media.giphy.com/media/B0ifefWijDGktTd683/giphy.gif" width='300'/>
 
-<img align="right" src="https://media.giphy.com/media/deI4raN2p4YeY/giphy.gif" width='300'/>
+<img align="right" src="https://media.giphy.com/media/tYiGDt4b33UVq/giphy.gif" width='300'/>
 
 
 Community builder & developer who has always been trying to be a restless learner. Strongly passionate about the development realized by communities through innovation.
