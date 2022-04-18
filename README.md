@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236EF7EF&size=57&center=true&multiline=true&width=2000&height=162&lines=Choose+discomfort+for+growth!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=37&duration=5022&color=2D9FFF&vCenter=true&width=700&lines=Choose+discomfort+for+growth!)](https://git.io/typing-svg)
 
-
-<h1> Hellooo!  </h1>
+<h2> Hellooo! This is Ceren 🤓 </h2>
 
 <img align="right" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" width='400'/>
 
