@@ -3,7 +3,7 @@
 
 <h1> Hellooo!  </h1>
 
-<img align="right" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" width='500'/>
+<img align="right" src="https://media.giphy.com/media/kCVIL0CLNWv2E/giphy.gif" width='400'/>
 
 
 Community builder & developer who has always been trying to be a restless learner. Strongly passionate about the development realized by communities through innovation.
