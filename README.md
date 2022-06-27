@@ -21,7 +21,7 @@ Community builder & developer who has always been trying to be a restless learne
 
 <p align="center">
 <a href="https://github.com/gulcerentunay">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulcerentunay&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="gulcerentunay"/>
-   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulcerentunay&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="gulcerentunay"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=gulcerentunay&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="gulcerentunay"/>
+   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulcerentunay&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="gulcerentunay"/>
   </a>
 </p>
